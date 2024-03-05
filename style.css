@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+  }
+  header{
+    background-image: url(images/project2/bg-header-desktop.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
